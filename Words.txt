@@ -1,0 +1,3 @@
+﻿Hey there. This is an era where we can open a word or text file directly from python.
+Not only that, we are soon going to learn how to modify the file through python.
+Yes I know. It is amazing.
